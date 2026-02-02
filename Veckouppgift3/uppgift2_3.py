@@ -3,10 +3,10 @@ filmer = ['Scarface', 'Star Wars', 'Pulp Fiction', 'Apornas planet', 'Forrest Gu
 print(filmer)
 
 #3b
-filmer.append('Fellowship of the ring')                            #Lägger till film i slutet av lista
+filmer.append('Fellowship of the ring')                           #Lägger till film i slutet av lista
 print(filmer)
 #3c
-filmer.insert(0, 'The two towers')                  #Lägger till Two Towers i början av lista, index 0
+filmer.insert(0, 'The two towers')                 #Lägger till Two Towers i början av lista, index 0
 print(filmer)
 #3d
 print(filmer.index('Fellowship of the ring'))                     #Skriver ut vilket index Fellowship of the ring har
