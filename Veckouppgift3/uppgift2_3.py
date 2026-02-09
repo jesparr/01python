@@ -1,3 +1,4 @@
+import math
 #3a
 filmer = ['Scarface', 'Star Wars', 'Pulp Fiction', 'Apornas planet', 'Forrest Gump'] #Skapar och skriver ut lista med filmer
 print(filmer)
