@@ -1,15 +1,12 @@
 #1a - 0-100 - 100-uppåt
-def greet ():
-    print("Hello, world!")
 
-greet()
-#1b
+#1b - 41, 42, 43
 
-#1c
+#1c - 0-4, 5 uppåt
 
-#1d
+#1d - True, False
 
-#1e
+#1e -
 
 #1f
 
